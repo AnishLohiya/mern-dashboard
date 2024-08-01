@@ -41,7 +41,7 @@ MONGO_URI=
 ```bash
 
 cd client
-npm start
+npm run dev
 
 cd server
 npm run dev
